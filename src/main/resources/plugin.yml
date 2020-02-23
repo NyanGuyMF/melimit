@@ -1,0 +1,7 @@
+main: voidpointer.bukkit.melimit.MeLimit
+name: ${project.name}
+version: ${project.version}
+author: 'VoidPointer aka NyanGuyMF'
+commands:
+  me:
+    description: 'Broadcast some action'
